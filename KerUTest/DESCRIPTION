@@ -1,0 +1,13 @@
+Package: KerUTest
+Type: Package
+Title: Testing Nonparametric Functions in RKHS
+Version: 0.1.0
+Author: Tao He, Ping-Shou Zhong, Yuehua Cui and Vidyadhar Mandrekar
+Maintainer: Tao He <hetao@sfsu.edu>
+Description: Testing nonparametric functions in Reproducing Kernel Hilbert Space (RKHS) of high dimensional or functional covariates. A U-statistics was developed to test the relationship between the quntitative response variable and a p-dimensional covariates.
+Depends: caret, psych
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2020-08-12 07:18:03 UTC; taohe
